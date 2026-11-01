@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "id": "io.github.git-blah.omatint",
   "name": "omaTint",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "priyankar tejwan",
   "license": "MIT",
   "description": "Tint the whole screen or single windows (grayscale, night light).",
